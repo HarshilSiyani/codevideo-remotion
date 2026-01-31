@@ -49,3 +49,11 @@ public/audio/
 # Temporary files
 *.tmp
 *.temp
+
+# SQLite database
+*.db
+*.db-shm
+*.db-wal
+
+# Drizzle
+drizzle/

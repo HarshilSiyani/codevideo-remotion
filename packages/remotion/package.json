@@ -9,6 +9,7 @@
     "build": "remotion bundle",
     "render": "remotion render",
     "render:preview": "remotion render DynamicVideo out/preview.mp4 --scale=0.5",
+    "deploy:lambda": "npx ts-node scripts/deploy-lambda.ts",
     "type-check": "tsc --noEmit"
   },
   "dependencies": {
