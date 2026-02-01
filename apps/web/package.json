@@ -15,6 +15,7 @@
   "dependencies": {
     "@anthropic-ai/sdk": "^0.30.0",
     "@remotion/player": "^4.0.0",
+    "@remotion/transitions": "^4.0.0",
     "@vizmo/ai": "*",
     "@vizmo/remotion": "*",
     "better-sqlite3": "^11.0.0",
